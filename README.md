@@ -76,7 +76,7 @@ cp .env.example .env
 
 4. Update the `.env` file with your configuration:
 ```env
-MONGODB_URI=mongodb://localhost:27017/product_management
+MONGODB_URI=mongodb+srv://n200698_db_user:Uma%40product90@product-management.quidthc.mongodb.net/productsdb?retryWrites=true&w=majority&appName=Product-management
 PORT=5000
 NODE_ENV=development
 FRONTEND_URL=http://localhost:5173
